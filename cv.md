@@ -1,5 +1,3 @@
-# rsschool-cv
-
 # Vyacheslav Katirkin
 
 ## Contacts
